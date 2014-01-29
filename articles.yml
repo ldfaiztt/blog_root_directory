@@ -1,7 +1,7 @@
-﻿- id: first-post
-  title: My first blog 
+- id: first-post
+  title: 江城子 
   postedOn: !!str 2013-01-02
-  author: Loser
+  author: 苏轼
   tags: 
     - 宋词
     - 苏轼
